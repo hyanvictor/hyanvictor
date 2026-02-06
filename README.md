@@ -1,7 +1,7 @@
 # Hyan Victor Ramos Campos
 
 Computer Science student focused on Back-end Development.  
-Currently building strong foundations in JavaScript and system design.
+Currently building strong foundations in Java and system design.
 
 ---
 
@@ -16,10 +16,7 @@ Currently building strong foundations in JavaScript and system design.
 ## 🚀 Technical Skills
 
 ### Main Stack
-- JavaScript (ES6+)
-- Node.js
-- React
-- HTML & CSS
+- Java
 
 ### Other Knowledge
 - C#
@@ -31,7 +28,7 @@ Currently building strong foundations in JavaScript and system design.
 
 ## 🛠 What I'm Currently Improving
 
-- Building REST APIs with Node.js
+- Building APIs with Java
 - Database modeling and SQL queries
 - Clean code and project organization
 - Version control workflows
